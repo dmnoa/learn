@@ -1,5 +1,3 @@
-dssdkfhaskfhsdaf
-sf
-sdf
-sd
-fsdf
+Here is readme
+
+and now i cal sleep
